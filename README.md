@@ -1,2 +1,2 @@
 # terminalMapper
-Automated pipeline for mapping, processing, filtering and analysing NGS data (Bash/Perl/R)
+Automated pipeline for the mapping, processing, filtering and analysing NGS data (Bash/Perl/R)
